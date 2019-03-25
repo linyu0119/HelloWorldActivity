@@ -37,6 +37,7 @@
     }
     结果截图：
     helloworld：
-    https://github.com/linyu0119/helloworldactivity/blob/master/app/images/2.png
+https://github.com/linyu0119/helloworldactivity/blob/master/app/images/2.png
+
     activity生命周期：
-    https://github.com/linyu0119/helloworldactivity/blob/master/app/images/1.png
+https://github.com/linyu0119/helloworldactivity/blob/master/app/images/1.png
